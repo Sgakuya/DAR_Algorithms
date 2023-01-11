@@ -1,7 +1,7 @@
 # DAR_ALGORITHMS_TESTS
 
 ## AUTHORS
-Smith Gakuya
+Smith Gakuya  
 Prof. Ananya Das - Middlebury College Computer Science Dept.
 
 ## *** PROJECT DESCRIPTION ***
