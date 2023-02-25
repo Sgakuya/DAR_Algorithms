@@ -1,11 +1,12 @@
 # DAR_ALGORITHMS_TESTS
 
+These files contain multiple functions that were used in the development of a near-optimal scheduling algorithm for Vermont's Tri-Valley transit organization's Dial-A-Ride service.
+
 ## AUTHORS
 Smith Gakuya  
 Prof. Ananya Das - Middlebury College Computer Science Dept.
 
 ## PROJECT DESCRIPTION 
-These files contain multiple functions that were used in the development of a near-optimal scheduling algorithm for Vermont's Tri-Valley transit organization's Dial-A-Ride service.
 
 Rides are simulated on a singular plane (1D) and code for creation/comparison of requests is in ***LinearRequest.java***
 Drivers who take up the various requests have functions that are declared in ***Driver.java***
